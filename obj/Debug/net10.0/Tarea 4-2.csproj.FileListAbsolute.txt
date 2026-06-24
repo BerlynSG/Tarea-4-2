@@ -1,0 +1,14 @@
+/home/berlyn/Música/Tarea 4-2/bin/Debug/net10.0/Tarea 4-2
+/home/berlyn/Música/Tarea 4-2/bin/Debug/net10.0/Tarea 4-2.deps.json
+/home/berlyn/Música/Tarea 4-2/bin/Debug/net10.0/Tarea 4-2.runtimeconfig.json
+/home/berlyn/Música/Tarea 4-2/bin/Debug/net10.0/Tarea 4-2.dll
+/home/berlyn/Música/Tarea 4-2/bin/Debug/net10.0/Tarea 4-2.pdb
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/Tarea 4-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/Tarea 4-2.AssemblyInfoInputs.cache
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/Tarea 4-2.AssemblyInfo.cs
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/Tarea 4-2.csproj.CoreCompileInputs.cache
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/Tarea 4-2.dll
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/refint/Tarea 4-2.dll
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/Tarea 4-2.pdb
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/Tarea 4-2.genruntimeconfig.cache
+/home/berlyn/Música/Tarea 4-2/obj/Debug/net10.0/ref/Tarea 4-2.dll
